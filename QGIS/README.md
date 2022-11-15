@@ -16,7 +16,7 @@ The data provided by the Danish authorities at https://dataforsyningen.dk/data/3
 * Bridge Deck
 * High Noise
 
-However, these labels have been applied automatically and some of them are not great for the purpose of training a model. But I have chosen to filter them out in the python section later on. The purpose of this section and for using QGIS is to add relevant RGB color channels to the point cloud for use in the machine learning features. 
+However, these labels have been applied automatically and some of them are not great for the purpose of training a model. The three vegetation classes are particularly troublesome. Boat piers and street lamps across bridges are often classified as either of the three vegetation categories, But I have chosen to filter some of them out in the python section later on. The purpose of this section and for using QGIS is to add relevant RGB color channels to the point cloud for use in the machine learning features. 
 
 
 ### Plugin installation for QGIS
