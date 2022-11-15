@@ -10,5 +10,5 @@ Using QGIS, Python and LiDAR data from Copenhagen as input to test several machi
 
 ## Steps
 1) [Acquire LiDAR data](https://dataforsyningen.dk/data/3931) 
-2) [QGIS guide](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/readme.md)
+2) [QGIS guide](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/README.md)
 3) [Jupyter Notebook](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/readme.md)
