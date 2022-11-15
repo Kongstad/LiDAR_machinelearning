@@ -32,5 +32,6 @@ First LAStools must be installed to QGIS, but it will not work properly unless y
 4) Whilst having selected the LiDAR laz data layer, use the LAStools plugin from the processing toolbox and select file - processing points, followed by lascolor. Add the input laz file, add the geotiff file in the second bracking and select an output file location, add a name and click run.
 
 ### Finished product
+The image does a decent enough job, however it is ideal that the RGB values are derived from the remote sensing LiDAR source in form of a simultaneously snapped optical image. As this screenshot shows, the wrapping of the image to the point cloud is not ideal
 ![Screenshot](lidarxyz3_in.png)
 
