@@ -1,5 +1,7 @@
 # QGIS 
 
+![alt text](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/lidarxyz2_in.png?raw=true)
+
 ## Establishing RGB data for LiDAR point cloud by extracting RGB information from optical satellite imagery
 
 The data provided by the Danish authorities at https://dataforsyningen.dk/data/3931, contains LiDAR point cloud data for Denmark. The data is already clasiffied for the following classes:
