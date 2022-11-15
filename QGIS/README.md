@@ -1,6 +1,4 @@
 # QGIS 
-
-![alt text](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/lidarxyz2_in.png?raw=true)
 ![Screenshot](lidarxyz2_in.png)
 
 ## Establishing RGB data for LiDAR point cloud by extracting RGB information from optical satellite imagery
