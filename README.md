@@ -1,6 +1,8 @@
 # QGIS, Python and LiDAR data
 Using QGIS, Python and LiDAR data from Copenhagen as input and through semantic segmentation, testing several machine learning methods.
 
+![Screenshot](/QGIS/3d_render_training_set.png)
+
 ## Overview
 * LiDAR laz files has been downloaded from Dataforsyningen (https://dataforsyningen.dk/data/3931) covering a 1 square kilometer area of Copenhagen.
 * RGB layers were added through QGIS by using optical satellite maps and the tool LAStools.
