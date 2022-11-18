@@ -14,4 +14,4 @@ Using QGIS, Python and LiDAR data from Copenhagen as input, machine learning mod
 1) [Acquire LiDAR data](https://dataforsyningen.dk/data/3931) 
 2) [QGIS guide](https://github.com/Kongstad/LiDAR_machinelearning/blob/main/QGIS/README.md)
 3) [Jakteristics Notebook](https://github.com/Kongstad/LiDAR_machinelearning/blob/main/Jakteristic/jakteristic.ipynb)
-4) [Jupyter Notebook](https://github.com/Kongstad/LiDAR_machinelearning/QGIS/readme.md)
+4) [Machine learning - Jupyter Notebook](https://github.com/Kongstad/LiDAR_machinelearning/blob/main/Python/liDAR_MachineLearning.ipynb)
