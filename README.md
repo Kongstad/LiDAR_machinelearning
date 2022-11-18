@@ -1,5 +1,5 @@
 # QGIS, Python and LiDAR data
-Using QGIS, Python and LiDAR data from Copenhagen as input and through semantic segmentation, testing several machine learning methods.
+Using QGIS, Python and LiDAR data from Copenhagen as input, machine learning models are generated and tested on new data.
 
 ![Screenshot](/QGIS/3d_render_training_set.png)
 
