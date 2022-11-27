@@ -1,5 +1,5 @@
 # QGIS, Python and LiDAR data
-Using QGIS and Python to handle LiDAR data covering the Copenhagen area. The data is analysed and used as input to machine learning models in an effort to perform object classification on 3D data.
+Using QGIS and Python to handle LiDAR data covering the Copenhagen area. The data is analyzed and used as input to machine learning models in an effort to perform object classification on 3D data.
 
 ![Screenshot](/QGIS/3d_render_training_set.png)
 
